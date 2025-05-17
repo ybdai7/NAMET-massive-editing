@@ -1,0 +1,19 @@
+---
+  # Result files
+  RESULTS_DIR: "results"
+
+  # Data files
+  DATA_DIR: "/project/ccpmssec/ydai851/BadEdit/data"
+  STATS_DIR: "/project/ccpmssec/ydai851/BadEdit/data/stats"
+  P_DIR: "/project/ccpmssec/ydai851/BadEdit/data/alphaedit_p"
+  #KV_DIR: "/share/projects/rewriting-knowledge/kvs"
+  # KV_DIR: "KV"
+  KV_DIR: "/project/ccpmssec/ydai851/BadEdit/KV"
+
+  # Hyperparameters
+  HPARAMS_DIR: "hparams"
+
+  MOTIVATION_DIR: "motivation"
+
+  # Remote URLs
+  REMOTE_ROOT_URL: "https://memit.baulab.info"
