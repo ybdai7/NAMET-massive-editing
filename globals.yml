@@ -1,18 +1,13 @@
 ---
   # Result files
   RESULTS_DIR: "results"
-
   # Data files
-  DATA_DIR: "/project/ccpmssec/ydai851/BadEdit/data"
-  STATS_DIR: "/project/ccpmssec/ydai851/BadEdit/data/stats"
-  P_DIR: "/project/ccpmssec/ydai851/BadEdit/data/alphaedit_p"
-  #KV_DIR: "/share/projects/rewriting-knowledge/kvs"
-  # KV_DIR: "KV"
-  KV_DIR: "/project/ccpmssec/ydai851/BadEdit/KV"
-
+  DATA_DIR: "data"
+  STATS_DIR: "data/stats"
+  P_DIR: "data/alphaedit_p"
+  KV_DIR: "KV"
   # Hyperparameters
   HPARAMS_DIR: "hparams"
-
   MOTIVATION_DIR: "motivation"
 
   # Remote URLs
