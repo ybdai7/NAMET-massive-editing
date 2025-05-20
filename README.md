@@ -82,4 +82,20 @@ The main configuration is done through `general.sh`. Here are the key parameters
 - Adjust `assigned_prefix_len` for evaluation (default: 5)
 
 ### Output
-Results will be saved in the specified output directory with your chosen `./results/out_name`.
+Results will be saved in the specified output directory with your chosen
+`./results/out_name`.
+
+## Citation
+
+If you find this repository useful for your research, please consider citing our paper:
+
+```bibtex
+@misc{dai2025namet,
+    title     = {NAMET: Robust Massive Model Editing via Noise-Aware Memory Optimization}, 
+    author    = {Yanbo Dai and Zhenlan Ji and Zongjie Li and Shuai Wang},
+    year      = {2025},
+    eprint    = {2505.11876},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.CL},
+    url       = {https://arxiv.org/abs/2505.11876}
+}
