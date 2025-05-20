@@ -32,13 +32,11 @@ export model_name=NousResearch/Llama-2-7b-hf
 # choose your hparams file from the following list
 # hparams_fname:
 # - "LLAMA3-8B.json",
-# - "QWEN-7B.json",
+# - "Qwen-7B.json",
 # - "LLAMA2-13B.json",
 # - "LLAMA2-7B.json",
-# - "DEEPSEEK-7B.json",
-# - "FALCON-7B.json",
-# - "PHI-1_5.json",
-# - "GEMMA-7B.json",
+# - "Deepseek-7B.json",
+# - "Falcon-7B.json",
 # add '_wikirecent' to the end of the file name if you want to evaluate on wikirecent dataset
 export hparams_fname=LLAMA2-7B.json
 
